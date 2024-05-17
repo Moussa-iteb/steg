@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("projetsteg"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b92759ab9fc722447c71f85876dcc404903b431"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("projetsteg"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("projetsteg"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

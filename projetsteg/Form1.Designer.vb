@@ -30,8 +30,6 @@ Partial Class Form1
         Button6 = New Button()
         Button7 = New Button()
         Button8 = New Button()
-        data = New DataGridView()
-        CType(data, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' Button1
@@ -114,20 +112,11 @@ Partial Class Form1
         Button8.Text = "Traitement Réseau  Base Tension "
         Button8.UseVisualStyleBackColor = False
         ' 
-        ' data
-        ' 
-        data.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        data.Location = New Point(1, 330)
-        data.Name = "data"
-        data.Size = New Size(907, 213)
-        data.TabIndex = 8
-        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(920, 538)
-        Controls.Add(data)
         Controls.Add(Button8)
         Controls.Add(Button7)
         Controls.Add(Button6)
@@ -138,7 +127,6 @@ Partial Class Form1
         Controls.Add(Button1)
         Name = "Form1"
         Text = "Form1"
-        CType(data, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -150,6 +138,5 @@ Partial Class Form1
     Friend WithEvents Button6 As Button
     Friend WithEvents Button7 As Button
     Friend WithEvents Button8 As Button
-    Friend WithEvents data As DataGridView
 
 End Class

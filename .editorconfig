@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# IDE0010: Ajouter les instructions case manquantes
+dotnet_diagnostic.IDE0010.severity = none

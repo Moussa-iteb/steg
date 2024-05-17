@@ -23,3 +23,4 @@ C:\Users\ACER\source\repos\projetsteg\projetsteg\obj\Debug\net8.0-windows\Intero
 C:\Users\ACER\source\repos\projetsteg\projetsteg\obj\Debug\net8.0-windows\Interop.AMovie.dll
 C:\Users\ACER\source\repos\projetsteg\projetsteg\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Access.Dao.dll
 C:\Users\ACER\source\repos\projetsteg\projetsteg\obj\Debug\net8.0-windows\Interop.ACTIVEXLib.dll
+C:\Users\ACER\source\repos\projetsteg\projetsteg\obj\Debug\net8.0-windows\projetsteg.sourcelink.json

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\projetsteg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|c:\\users\\acer\\source\\repos\\projetsteg\\projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|C:\\Users\\ACER\\source\\repos\\projetsteg\\projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|solutionrelative:projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|C:\\Users\\ACER\\source\\repos\\projetsteg\\projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|c:\\users\\acer\\source\\repos\\projetsteg\\projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{B6DB44A0-7728-4BA7-BA0D-516B41B44AFE}|projetsteg\\projetsteg.vbproj|solutionrelative:projetsteg\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "projetsteg\\Form1.vb",
               "ToolTip": "C:\\Users\\ACER\\source\\repos\\projetsteg\\projetsteg\\Form1.vb",
               "RelativeToolTip": "projetsteg\\Form1.vb",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAA/AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-05-10T11:19:50.711Z",
               "EditorCaption": ""
